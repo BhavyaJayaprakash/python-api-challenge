@@ -18,11 +18,19 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 
 Latitude vs. Temperature
 
+![Fig1](https://github.com/user-attachments/assets/953ae309-61e8-4fde-8ae3-0d47b0c6a198)
+
 Latitude vs. Humidity
+![Fig2](https://github.com/user-attachments/assets/637f7a99-64b8-4a17-bfb4-7ed0b93d0905)
 
 Latitude vs. Cloudiness
+![Fig3](https://github.com/user-attachments/assets/f04901d0-1de1-4d88-a65f-f641223096ef)
+
 
 Latitude vs. Wind Speed
+![Fig4](https://github.com/user-attachments/assets/aa5f20d4-c5cc-49f6-ae5d-470329a242fc)
+
+
 
 #Requirement 2: Compute Linear Regression for Each Relationship
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
