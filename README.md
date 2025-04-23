@@ -40,20 +40,34 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 You should create the following plots:
 
 Northern Hemisphere: Temperature vs. Latitude
+![Screenshot 2025-04-22 234710](https://github.com/user-attachments/assets/372087ba-cb74-461c-90d3-11c92c72389d)
 
 Southern Hemisphere: Temperature vs. Latitude
 
+![Screenshot 2025-04-22 234703](https://github.com/user-attachments/assets/b04130d3-f106-439d-9911-0f30bec1734f)
+
 Northern Hemisphere: Humidity vs. Latitude
+
+![Screenshot 2025-04-22 234655](https://github.com/user-attachments/assets/dbaa86fd-c106-4779-ad17-edf156cbba8d)
 
 Southern Hemisphere: Humidity vs. Latitude
 
+![Screenshot 2025-04-22 234648](https://github.com/user-attachments/assets/594908e1-3a0a-4a73-94c6-363694a1ce70)
+
 Northern Hemisphere: Cloudiness vs. Latitude
+
+![Screenshot 2025-04-22 234639](https://github.com/user-attachments/assets/1c77b6c4-e0f2-48c7-b751-ee059f03e632)
 
 Southern Hemisphere: Cloudiness vs. Latitude
 
+![Screenshot 2025-04-22 234631](https://github.com/user-attachments/assets/57287a08-5e62-4c61-b5ce-40c5f0eeb148)
+
 Northern Hemisphere: Wind Speed vs. Latitude
 
+![Screenshot 2025-04-22 234618](https://github.com/user-attachments/assets/9fcc1802-03ec-40ed-a6fd-b42c9d713e43)
+
 Southern Hemisphere: Wind Speed vs. Latitude
+![Screenshot 2025-04-22 234608](https://github.com/user-attachments/assets/2254a73d-d1f8-4a45-8fdf-6062dff50536)
 
 # Part 2: VacationPy
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
